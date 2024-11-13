@@ -32,7 +32,7 @@ fi
 function display_help {
     echo "Laravel Sail"
     echo
-    echo "${YELLOW}Usage:${NC}" >&2
+    echo "${YELLOW}Usage:${NC}"
     echo "  sail COMMAND [options] [arguments]"
     echo
     echo "Unknown commands are passed to the docker-compose binary."
